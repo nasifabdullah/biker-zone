@@ -1,0 +1,51 @@
+/* header section for 1st gradient section */
+.header-img{
+    background: linear-gradient(90deg, #181818 0%, rgba(24, 24, 24, 0.822917) 24.48%, rgba(24, 24, 24, 0) 100%), url(images/header.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+
+
+
+/* header section for second section */
+.header-color{
+    background: #264653;
+}
+.custom-color{
+    color: #E76F51;
+}
+.custom-css{
+    background: #E76F51;
+    color: white;
+}
+.custom-css:hover{
+    color: #E76F51;
+    background: white;
+    border: 1px solid #E76F51;
+}
+.custom-outline{
+    background: white;
+    color: #E76F51;
+    border: 1px solid #E76F51;
+}
+.custom-outline:hover{
+    background: #E76F51;
+    color: white;
+    border: 1px solid #E76F51;
+}
+.burger-menu{
+    background: white;
+}
+.footer-color{
+    background:#0B0D17 ;
+}
+/* position for banner section */
+/* .dot-position{
+    position: absolute;
+    top: 200px;
+    right: 230px;
+    z-index: 1;
+} */
+/* end */

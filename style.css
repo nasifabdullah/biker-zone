@@ -1,4 +1,13 @@
-/* header section for 1st gradient section */
+/* header section for 1st carousel section */
+/* header section for 1st carousel section */
+
+.carousel-custom{
+   background-color: #e76f514f;
+}
+
+
+/* header section for 2nd gradient section */
+/* header section for 2nd gradient section */
 .header-img{
     background: linear-gradient(90deg, #181818 0%, rgba(24, 24, 24, 0.822917) 24.48%, rgba(24, 24, 24, 0) 100%), url(images/header.png);
     background-repeat: no-repeat;
@@ -6,10 +15,8 @@
     background-size: cover;
 }
 
-
-
-
-/* header section for second section */
+/* header section for 3 third section */
+/* header section for 3 third section */
 .header-color{
     background: #264653;
 }
@@ -41,7 +48,7 @@
 .footer-color{
     background:#0B0D17 ;
 }
-/* position for banner section */
+/* position for banner 3 no header section  */
 /* .dot-position{
     position: absolute;
     top: 200px;
